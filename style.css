@@ -1,0 +1,18 @@
+ul li{
+  color: green
+}
+a:link{
+  color: red
+}
+a:visited{
+  color: green
+}
+a:hover {
+  text-decoration: none;
+}
+.outer {
+  border: 3px solid black
+}
+.outer{
+  border: 2px solid black
+}
